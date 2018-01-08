@@ -2,10 +2,11 @@ var C = {};
 
 
 
-totalPayable = 210         // £2.10
-cashPaid     = 300         // £3.00
-difference   =  90         // 90p
-change       = [50,20,20]  // 50p, 20p, 20p
+
+totalPayable = 486           // £4.86
+cashPaid     = 1000          // £10.00
+difference   = 514           // £5.14
+change       = [500,10,2,2]  // £5, 10p, 2p, 2p
 
 
 // C Object simplifies exporting the module
